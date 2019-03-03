@@ -22,5 +22,6 @@ public class ListClientExample {
 		@SuppressWarnings("rawtypes")
 		List list = lce.getList();
 		System.out.println(list);
+		System.out.println("d");
 	}
 }
